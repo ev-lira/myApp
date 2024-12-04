@@ -1,0 +1,42 @@
+.world-clock-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px auto;
+    max-width: 400px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .clock {
+    margin-bottom: 20px;
+  }
+  
+  .clock h2 {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .clock p {
+    margin: 5px 0;
+    font-size: 18px;
+    color: #666;
+  }
+  
+  .timezone-selector {
+    margin-top: 20px;
+  }
+  
+  .timezone-selector label {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .timezone-selector select {
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 14px;
+  }
